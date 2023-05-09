@@ -1,0 +1,10 @@
+hibernate\entity\StudentProfile.class
+hibernate\entity\Trainer.class
+hibernate\entity\Course$CourseBuilder.class
+hibernate\entity\StudentProfile$StudentProfileBuilder.class
+hibernate\entity\Info$InfoBuilder.class
+hibernate\entity\Info.class
+hibernate\entity\Student.class
+hibernate\entity\Course.class
+hibernate\entity\Student$StudentBuilder.class
+hibernate\entity\Trainer$TrainerBuilder.class
